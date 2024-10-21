@@ -1,0 +1,14 @@
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\bin\Debug\net8.0\ClassesJogo.exe
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\bin\Debug\net8.0\ClassesJogo.deps.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\bin\Debug\net8.0\ClassesJogo.runtimeconfig.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\bin\Debug\net8.0\ClassesJogo.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\bin\Debug\net8.0\ClassesJogo.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.AssemblyInfoInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.AssemblyInfo.cs
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\refint\ClassesJogo.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ClassesJogo.genruntimeconfig.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classes-Jogo\ClassesJogo\obj\Debug\net8.0\ref\ClassesJogo.dll
